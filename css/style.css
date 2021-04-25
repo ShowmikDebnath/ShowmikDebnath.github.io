@@ -35,3 +35,11 @@ body{
     height: 150px;
     border-radius: 50%;
 }
+
+.project-container{
+    background-color: #2883dd;
+}
+
+.text-d{
+    text-decoration: none;
+}
