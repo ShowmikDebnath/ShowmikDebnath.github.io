@@ -11,7 +11,10 @@ body{
 }
 
 .navbar-container{
+    top: 0;
     background-color: #262837;
+    position: sticky;
+    z-index: 2;
 }
 
 .about-container{
@@ -25,6 +28,11 @@ body{
 .bg-redtype{
     background-color: #f8857f;
 }
+
+.bg-redtype :hover{
+    color: black !important;
+}
+
 .redtype-color{
     color: #f8857f;
 }
@@ -50,4 +58,21 @@ body{
 
 .Protfolio-color{
     background-color: cornsilk;
+}
+
+.form-container{
+    background-color: #474D5D;
+}
+
+.text-m{
+    margin-right: 3px;
+}
+
+.inner-form{
+    background-color: #585f73;
+}
+
+.bn:hover{
+    color: black !important;
+    background-color: white;
 }
