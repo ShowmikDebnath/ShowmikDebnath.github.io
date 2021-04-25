@@ -76,3 +76,15 @@ body{
     color: black !important;
     background-color: white;
 }
+
+.footer{
+    background-color: #2bb3dd;
+}
+
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+}
