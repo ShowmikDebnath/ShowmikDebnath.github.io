@@ -43,3 +43,11 @@ body{
 .text-d{
     text-decoration: none;
 }
+
+.card-color{
+   background-color: rgb(235, 212, 212)
+}
+
+.Protfolio-color{
+    background-color: cornsilk;
+}
