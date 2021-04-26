@@ -81,10 +81,16 @@ body{
     background-color: #2bb3dd;
 }
 
-.circle{
+.fotter-circle{
     width: 60px;
     height: 60px;
     border-radius: 50%;
     display: inline-block;
     background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #2bb3dd;
+}
+.fotter-circle:hover{
+    background-color: #474D5D;    
 }
